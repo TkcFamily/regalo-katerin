@@ -1,5 +1,5 @@
 const coloresRandomTexto = [
-  'red', 'blue', 'darkred', 'pink', 'darkblue', 'green', 'orange', 'aqua', 'crimson', 'fuchsia', 'darkviolet', 'darkgreen', 'gold', 'indigo', 'magenta', 'olive', 'purple', 'salmon',
+  'red', 'blue', 'darkred', 'brown', 'darkblue', 'green', 'orange', 'aqua', 'crimson', 'fuchsia', 'darkviolet', 'darkgreen', 'gold', 'indigo', 'magenta', 'olive', 'purple', 'salmon',
 ];
 
 function textoColorines(texto) {
