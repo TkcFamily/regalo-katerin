@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Comic Neue', cursive;
+  src: url(./assets/fonts/ComicNeue-Regular.ttf),
+  url(./assets/fonts/ComicNeue-Italic.ttf),
+  url(./assets/fonts/ComicNeue-Bold.ttf),
+  url(./assets/fonts/ComicNeue-BoldItalic.ttf),
+  url(./assets/fonts/ComicNeue-Light.ttf),
+  url(./assets/fonts/ComicNeue-LightItalic.ttf),
+}
+
+body {
+  font-family: 'Comic Neue', cursive;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img[alt="cara de Renjun"] {
+  object-fit: cover;
+  margin: 0 0 1rem 0;
+  border: 10px dashed coral;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+#continuarrr {
+  background-color: crimson;
+  border-radius: 10px;
+  padding: 5px 10px;
+  color: white;
+  font-size: 1.3rem;
+}
+
+#continuarrr:hover {
+  background-color: darkred;
+}
+
+#continuarrr:active {
+  background-color: aqua;
+}
+
+#titulazo {
+  margin-bottom: 1rem;
+}
